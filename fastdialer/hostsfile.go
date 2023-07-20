@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/dimchansky/utfbom"
-	"github.com/projectdiscovery/hmap/store/hybrid"
-	"github.com/projectdiscovery/retryabledns"
+	"github.com/boss-net/hmap/store/hybrid"
+	"github.com/boss-net/retryabledns"
 )
 
 func loadHostsFile(hm *hybrid.HybridMap) error {
