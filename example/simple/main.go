@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/projectdiscovery/fastdialer/fastdialer"
+	"github.com/boss-net/fastdialer/fastdialer"
 )
 
 func main() {
