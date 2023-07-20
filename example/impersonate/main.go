@@ -5,8 +5,8 @@ import (
 	"crypto/tls"
 	"log"
 
-	"github.com/projectdiscovery/fastdialer/fastdialer"
-	"github.com/projectdiscovery/fastdialer/fastdialer/ja3/impersonate"
+	"github.com/boss-net/fastdialer/fastdialer"
+	"github.com/boss-net/fastdialer/fastdialer/ja3/impersonate"
 )
 
 func main() {
