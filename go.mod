@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/fastdialer
+module github.com/boss-net/fastdialer
 
 go 1.18
 
